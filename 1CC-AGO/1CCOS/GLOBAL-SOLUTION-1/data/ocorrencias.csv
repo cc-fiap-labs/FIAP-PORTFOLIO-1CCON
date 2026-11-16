@@ -1,0 +1,14 @@
+id;categoria;descricao;local;dia_abertura;status;dia_conclusao
+001;iluminacao;Poste apagado há três noites;Rua residencial transversal;2;aberta;
+002;acessibilidade;Buraco na calçada impede a passagem de cadeira de rodas;Calçada próxima ao ponto de ônibus;1;concluida;6
+003;limpeza;Lixo acumulado ao lado dos bancos;Praça arborizada;3;em_analise;
+004;conservacao;Banco de madeira quebrado;Área verde (parque);2;concluida;9
+005;iluminacao;Lâmpada piscando durante a noite;Praça arborizada;4;em_analise;
+006;acessibilidade;Falta de rampa na faixa de pedestres;Faixa de pedestres perto da escola;5;aberta;
+007;limpeza;Folhas entupindo a boca de lobo;Rua residencial transversal;6;concluida;11
+008;conservacao;Sinalização da ciclofaixa apagada;Ciclofaixa;7;em_analise;
+009;iluminacao;Trecho escuro sem iluminação à noite;Ciclofaixa;8;aberta;
+010;acessibilidade;Piso tátil solto;Calçada próxima ao ponto de ônibus;9;em_analise;
+011;limpeza;Entulho descartado na calçada;Faixa de pedestres perto da escola;10;aberta;
+012;conservacao;Grade do parque danificada;Área verde (parque);12;aberta;
+013;;Muro pichado ao lado da praça;Praça arborizada;13;aberta;
