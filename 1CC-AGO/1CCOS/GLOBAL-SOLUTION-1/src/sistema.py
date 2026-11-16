@@ -20,7 +20,7 @@ CATEGORIAS = ["iluminacao", "acessibilidade", "limpeza", "conservacao"]
 STATUS = ["aberta", "em_analise", "concluida"]
 DIA_ATUAL = 15  # "hoje" na simulação: usado em novos cadastros e atualizações
 
-# Nomes bonitos só para mostrar na tela
+# Nomes para mostrar na tela
 NOME_CATEGORIA = {
     "iluminacao": "Iluminação",
     "acessibilidade": "Acessibilidade",
@@ -60,7 +60,7 @@ def normalizar(texto):
     return resultado
 
 
-def eh_numero(texto):
+def eh_numero(texto): # confere se o texto é um número inteiro
     """True se o texto for um número inteiro (ex.: "12")."""
     return texto.strip().isdigit()
 
