@@ -22,16 +22,16 @@ Global Solution 2026: desafio CitizenTech
 
 | Nome | RM |
 | --- | --- |
-| Gabriela de Sousa Reis | RM00000 |
-| Kauan Henrique Martins Alves | RM00000 |
-| Leonardo Gomes Gonçalves | RM00000 |
-| Rosangela Sousa de Oliveira | RM00000 |
-| Victoria Nascimento Santana | RM00000 |
+| Gabriela de Sousa Reis | RM574514 |
+| Kauan Henrique Martins Alves | RM576109 |
+| Leonardo Gomes Gonçalves | RM574801 |
+| Rosangela Sousa de Oliveira | RM575137 |
+| Victoria Nascimento Santana | RM574434 |
 
 ## 👩‍🏫 Professores
 
 ### Tutor(a)
-- Nome do tutor(a)
+- André Godoi Chiovato
 
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/andregodoichiovato/">André Godoi Chiovato</a>
