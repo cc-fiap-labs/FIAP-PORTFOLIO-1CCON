@@ -10,11 +10,10 @@ Este arquivo registra, como pede o enunciado, como a IA apoiou o desenvolvimento
 
 | Etapa | O que a IA fez | O que a equipe fez |
 | --- | --- | --- |
-| Entendimento do enunciado | Resumiu os requisitos e montou um checklist | Conferiu o checklist com o enunciado oficial no portal FIAP ON |
 | Planejamento | Sugeriu as etapas, os campos da ocorrência e quais estruturas de dados usar em cada parte | Escolheu o bairro (Jardins), os status e o nome da equipe |
-| Pseudocódigo | Escreveu o pseudocódigo de cada função em português | Revisou a lógica antes de passar para o código |
-| Dados fictícios | Gerou as 12 ocorrências, o registro com erro proposital e o histórico | Conferiu que nenhum dado identifica pessoas e que os locais são genéricos |
-| Código | Escreveu uma primeira versão do `sistema.py` a partir do pseudocódigo | Leu cada função, executou e pediu ajustes (ex.: trocar uma sequência de `if` por `if / elif / else` em `atualizar_status`) |
+| Pseudocódigo | Analisou o pseudocódigo feito pela equipe | Fez o pseudocódigo |
+| Dados fictícios | Analisou as  as 12 ocorrências, o registro com erro proposital e o histórico | Criou as 12 ocorrências |
+| Código | Revisou o código feito pela equipe | Pelo pseudocódigo, fez o 'sistema.py', analisando cada função, executou e pediu ajustes (ex.: trocar uma sequência de `if` por `if / elif / else` em `atualizar_status`) |
 | Documentação | Ajudou a redigir este README | Revisou o texto e completou RMs, tutor e link do vídeo |
 
 ## Como os resultados foram verificados
