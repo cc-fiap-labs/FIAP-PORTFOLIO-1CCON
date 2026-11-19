@@ -371,7 +371,8 @@ Até logo! (As alterações desta sessão ficam só na memória.)
 
 ### 🔗 Links do projeto
 
-* **[Vídeo de apresentação no YouTube](https://www.youtube.com/)** - substituir pelo link do vídeo "Não listado".
+* **[Vídeo de apresentação no YouTube](https://youtu.be/IJmHqQWNYUI?si=07h-DszVkH87W01C
+)**.
 
 ### 🧠 Decisões técnicas
 
